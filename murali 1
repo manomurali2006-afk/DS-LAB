@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+int arr[3]={1,2,3}
+for(int i + 0; i< 10; i++) {
+   printf("%d ", arr[i]);
+   }
+   printf(
+   printf("Enter number to find: "):
+   scanf("%d", &key);
+   int key;
+   for (int i = 0: i < 3; i++) {
+      if (arr[i] == key) {
+      printf("found at index %d\n", i);
+      }
+   }   
+   
+   return 0;
+   }
